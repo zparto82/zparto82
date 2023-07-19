@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, We're zparto82 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A Samll Group of Junior Developers from Iran</h3>
 
-- 🔭 We're currently working on **Artificial Intelligence Based On Python**
+- 🔭 I'm currently working on **Artificial Intelligence Based On Python**
 
-- 🌱 We're currently learning **Python, HTML5 and CSS3**
+- 🌱 I'm currently learning **Python, Django, VueJS, Tailwind, HTML5 and CSS3**
 
-- 👯 We're looking to collaborate on **front-end and back-end projects**
+- 👯 I'm looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach us: **This Field is Empty For Now**
+- 📫 How to reach us: **You can email to me: zparto82@gmail.com **
 
-- ⚡ What We like to do: **We like so much reading, Learning... and coding of course**
 
 <h3 align="center">Connect with us:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/author_auta/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
   
