@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zparto <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm zparto />
 
 - 🔭 I'm currently working on **Artificial Intelligence Based On Python**
 
