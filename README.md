@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zparto />
+<h2 align="center">Hi 👋, I'm zparto />
 
 - 🔭 I'm currently working on **Artificial Intelligence Based On Python**
 
