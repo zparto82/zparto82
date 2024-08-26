@@ -1,4 +1,4 @@
-<h5 align="center">Hi 👋, I'm zparto />
+<h5 align="center">Hi 👋/>
 
 - 🌱 I'm currently learning **Python, Django, VueJS, Tailwind, HTML5 and CSS3**
 
