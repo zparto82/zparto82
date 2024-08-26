@@ -4,9 +4,9 @@
 
 - 👯 I'm looking to collaborate on **front-end and back-end projects**
 
-<h3 align="center">Languages and Tools:</h3>
+<h4>Languages and Tools:</h4>
 
-<p align="center"> 
+<p> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -27,9 +27,8 @@
   </a>
 </p>
 
-<p align= "center">
+<p>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zparto82&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zparto82&theme=react&layout=compact" />
 </p>
 
-------
