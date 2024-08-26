@@ -1,4 +1,4 @@
-<h5>Hi 👋>>/h5>
+<h5>Hi 👋></h5>
 
 - 🌱 I'm currently learning **Python, Django, VueJS, Tailwind, HTML5 and CSS3**
 
