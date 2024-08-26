@@ -4,14 +4,6 @@
 
 - 👯 I'm looking to collaborate on **front-end and back-end projects**
 
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-  
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
