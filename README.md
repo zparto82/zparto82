@@ -1,15 +1,9 @@
-<h3 align="center">Hi 👋, I'm zparto />
-
-- 🔭 I'm currently working on **Artificial Intelligence Based On Python**
+<h5 align="center">Hi 👋, I'm zparto />
 
 - 🌱 I'm currently learning **Python, Django, VueJS, Tailwind, HTML5 and CSS3**
 
 - 👯 I'm looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach us: **You can email to me: zparto82@gmail.com **
-
-
-<h3 align="center">Connect with us:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
