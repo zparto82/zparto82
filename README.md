@@ -1,4 +1,4 @@
-<h5 align="center">Hi 👋/>
+<h5>Hi 👋/>
 
 - 🌱 I'm currently learning **Python, Django, VueJS, Tailwind, HTML5 and CSS3**
 
